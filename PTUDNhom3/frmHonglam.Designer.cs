@@ -48,7 +48,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
             Name = "frmHongLamcs";
-            Text = "frmHongLamcs";
+            Text = "Honglam1107";
             Load += frmHonglam_Load;
             ResumeLayout(false);
             PerformLayout();
